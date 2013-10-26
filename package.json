@@ -1,0 +1,18 @@
+{
+  "name"        : "My RevealJS presentation",
+  "version"     : "1.0.0",
+  "author"      : "Igor Hlina <srigi@srigi.sk>",
+  "repository"  : {
+    "type"      : "git",
+    "url"       : "git://github.com/srigi/presentation-boilerplate-revealjs.git"
+  },
+  "engines"     : {
+    "node"      : ">=0.8"
+  },
+
+  "devDependencies": {
+    "grunt"                 : "~0.4.1",
+    "grunt-contrib-jshint"  : "~0.7.0",
+    "grunt-contrib-watch"   : "~0.5.3"
+  }
+}
